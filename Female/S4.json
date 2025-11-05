@@ -1,0 +1,32 @@
+{
+  "id": "S4",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Luz",
+    "gender": "Female",
+    "age": 22,
+    "country": "Guatemala",
+    "language_native": "Spanish",
+    "languages_known": ["Spanish", "Garifuna", "English"],
+    "accent_or_dialect": "Spanish English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": ["https://drive.google.com/file/d/1k0I6EeQQpFTHs9Zm5bez31YI1zD03kv6/view?usp=sharing"],
+    "recording_link_respondent": ["https://drive.google.com/file/d/1-8Sa7lqS1oSodCgj4Y0BiT0DL1Ar5L65/view?usp=sharing"],
+    "duration": "40:11 min",
+    "file_size_agent": "203 MB",
+    "file_size_respondent": "203 MB",
+    "device_used": "Dell Inspiron 15 and JAVA headsets",
+    "noise_level": "Okay",
+    "notes": "No major noise issues mentioned"
+  }
+}

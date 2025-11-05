@@ -1,0 +1,32 @@
+{
+  "id": "S13",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Oluwatomisin",
+    "gender": "Male",
+    "age": 26,
+    "country": "Kenya",
+    "language_native": "Yoruba",
+    "languages_known": ["Yoruba", "English"],
+    "accent_or_dialect": "Kenyan Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": ["https://drive.google.com/file/d/1bcW1wswzRGvMZax00Lw1q8QZTTSkkkxA/view?usp=sharing"],
+    "recording_link_respondent": ["https://drive.google.com/file/d/1he3hcmWjkgCUKKr8pG38IKRc9t7oZRdx/view?usp=sharing"],
+    "duration": "37:41 min",
+    "file_size_agent": "190 MB",
+    "file_size_respondent": "190 MB",
+    "device_used": "HP computer, Earphone",
+    "noise_level": "OK",
+    "notes": "Small constant white noise"
+  }
+}
