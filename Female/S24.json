@@ -1,0 +1,40 @@
+{
+  "id": "S24",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Lavenda",
+    "gender": "Female",
+    "age": 20,
+    "city": "Thika, Kiambu",
+    "country": "Kenya",
+    "origin": "Nairobi",
+    "language_native": "Kiswahili",
+    "languages_known": ["Swahili", "English"],
+    "accent_or_dialect": "Kenya English Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/1Wzg_KLmrCQg59EoH4cBXa7ef5OGNRomV/view?usp=sharing",
+      "https://drive.google.com/file/d/1ENb-GZIu3wB8UtAgFhS_6MxMpEgST1IB/view?usp=sharing"
+    ],
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/1iovzZsvq2weQU8wu7I8nx7CSI5XqMvmT/view?usp=sharing",
+      "https://drive.google.com/file/d/1N8HE-sTgcljGAxvFk1JzciHoP8MTONKh/view?usp=sharing"
+    ],
+    "duration": "38:52 min",
+    "file_size_respondent": "198.2 MB / 196 MB",
+    "file_size_agent": "198.2 MB",
+    "device_used": "Redmi 12C",
+    "noise_level": "Constant white noise & background noise",
+    "notes": "Audio is understandable but noise is consistent throughout."
+  }
+}

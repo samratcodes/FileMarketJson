@@ -1,0 +1,38 @@
+{
+  "id": "S27",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Evenly",
+    "gender": "Female",
+    "age": 43,
+    "city": "Johannesburg, South Africa",
+    "country": "South Africa",
+    "origin": "Kwa-Zulu Natal, South Africa",
+    "language_native": "Afrikaans",
+    "languages_known": ["English", "Afrikaans"],
+    "accent_or_dialect": "South African Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/1CNu2Q7B_GY9jozmqQZib3TYISIKiUunE/view?usp=sharing"
+    ],
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/1A8uRbrm5QFZvRrOnUpVerSF0F9qncopM/view?usp=sharing"
+    ],
+    "duration": "36:36 min",
+    "file_size_respondent": "185MB",
+    "file_size_agent": "185MB",
+    "device_used": "Vivo V21O9",
+    "noise_level": "Some background noise",
+    "notes": "Overall okay with mild background noise."
+  }
+}

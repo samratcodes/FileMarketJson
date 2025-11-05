@@ -1,0 +1,38 @@
+{
+  "id": "S32",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Ntando",
+    "gender": "Male",
+    "age": 22,
+    "city": "Vanderbijlpark",
+    "country": "South Africa",
+    "origin": "Wolmaransstad",
+    "language_native": "Xhosa",
+    "languages_known": ["Isizulu", "Setswana", "English", "Afrikaans"],
+    "accent_or_dialect": "South African Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/1O2fDA5L-9fjY8IpIvmSVrhVwnlWgA96p/view?usp=drive_link"
+    ],
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/1VhHt-omnorDqK-yVI6GrhNprJRTuyI4W/view?usp=drive_link"
+    ],
+    "duration": "36:08 min",
+    "file_size_respondent": "182 MB",
+    "file_size_agent": "182 MB",
+    "device_used": "Samsung A26",
+    "noise_level": "Low (some background noise)",
+    "notes": "Audio almost perfect with minor background noise."
+  }
+}

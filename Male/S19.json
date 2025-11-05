@@ -1,0 +1,36 @@
+{
+  "id": "S19",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Joshua",
+    "gender": "Male",
+    "age": 21,
+    "country": "Nigeria",
+    "language_native": "Igbo",
+    "languages_known": ["English", "Igbo", "French"],
+    "accent_or_dialect": "Nigerian English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/1otdM-mYdpRPJF8dsobjnMclg6jjdxiwA/view?usp=sharing"
+    ],
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/1fxhvpk9jtvfC6_QWB4VGlbtZkJnMvMra/view?usp=sharing"
+    ],
+    "duration": "41:15 min",
+    "file_size_agent": "208 MB",
+    "file_size_respondent": "208 MB",
+    "device_used": "iPhone 13 Pro",
+    "noise_level": "Very low (almost perfect)",
+    "notes": "Small background noise but overall clear and good quality"
+  }
+}

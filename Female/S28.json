@@ -1,0 +1,38 @@
+{
+  "id": "S28",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Sunovuyo",
+    "gender": "Female",
+    "age": 34,
+    "city": "East London, Eastern Cape",
+    "country": "South Africa",
+    "origin": "Capetown, Western Cape",
+    "language_native": "IsiXhosa",
+    "languages_known": ["IsiXhosa", "English"],
+    "accent_or_dialect": "IsiXhosa Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/1FW-dKsPqMGfZn6Xj8bbgoZaAH4fRBBvL/view?usp=sharing"
+    ],
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/1TkaWO5mZxNtOwwGx2FCgPQMwsruw8I1T/view?usp=sharing"
+    ],
+    "duration": "36:47 min",
+    "file_size_respondent": "186 MB",
+    "file_size_agent": "186 MB",
+    "device_used": "Samsung A12",
+    "noise_level": "Some background noise",
+    "notes": "Audio understandable with minor background noise."
+  }
+}
