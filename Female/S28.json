@@ -12,9 +12,7 @@
     "first_name": "Sunovuyo",
     "gender": "Female",
     "age": 34,
-    "city": "East London, Eastern Cape",
     "country": "South Africa",
-    "origin": "Capetown, Western Cape",
     "language_native": "IsiXhosa",
     "languages_known": ["IsiXhosa", "English"],
     "accent_or_dialect": "IsiXhosa Accent",
@@ -22,11 +20,11 @@
   },
   "consent": "Yes",
   "recording_details": {
+        "recording_links_agent": [
+      "https://drive.google.com/file/d/1TkaWO5mZxNtOwwGx2FCgPQMwsruw8I1T/view?usp=sharing"
+    ],
     "recording_links_respondent": [
       "https://drive.google.com/file/d/1FW-dKsPqMGfZn6Xj8bbgoZaAH4fRBBvL/view?usp=sharing"
-    ],
-    "recording_links_agent": [
-      "https://drive.google.com/file/d/1TkaWO5mZxNtOwwGx2FCgPQMwsruw8I1T/view?usp=sharing"
     ],
     "duration": "36:47 min",
     "file_size_respondent": "186 MB",

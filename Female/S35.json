@@ -12,9 +12,7 @@
     "first_name": "Lucy",
     "gender": "Female",
     "age": 21,
-    "city": "Murang'a, Kenya",
     "country": "Kenya",
-    "origin": "Kiambu County",
     "language_native": "Kikuyu",
     "languages_known": ["Kikuyu", "Swahili", "English"],
     "accent_or_dialect": "Kenya Accent",
@@ -22,11 +20,11 @@
   },
   "consent": "Yes",
   "recording_details": {
+        "recording_links_agent": [
+      "https://drive.google.com/file/d/1bf8xREmTvvR-sEhrJiY5iJ1i53eegNRs/view?usp=drive_link"
+    ],
     "recording_links_respondent": [
       "https://drive.google.com/file/d/10bl6CbPzw2DeVAsqNGARgD9OW2u4wDeO/view?usp=drive_link"
-    ],
-    "recording_links_agent": [
-      "https://drive.google.com/file/d/1bf8xREmTvvR-sEhrJiY5iJ1i53eegNRs/view?usp=drive_link"
     ],
     "duration": "37:41 min",
     "file_size_respondent": "190 MB",

@@ -1,0 +1,39 @@
+{
+  "id": "S55",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Siyabonga",
+    "gender": "Female",
+    "age": 26,
+    "country": "South Africa",
+    "language_native": "Isizulu",
+    "languages_known": [
+      "Isizulu",
+      "English"
+    ],
+    "accent_or_dialect": "South African Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1MMANjYHdBJZPK_7aZSKkb4rQ1UyFkhlq/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1P5sCI91-BULM0HXd3HvHu6T7A7uq7SrI/view?usp=drive_link"
+    ],
+    "duration": "36:44 min",
+    "file_size_agent": "185 MB",
+    "file_size_respondent": "185 MB",
+    "device_used": "LG V40, Sony Headset",
+    "noise_level": "Low",
+    "notes": "Slow talker but clear audio."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "S70",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Resit",
+    "gender": "Male",
+    "age": 70,
+    "country": "South Africa",
+    "language_native": "English",
+    "languages_known": [
+      "French",
+      "Turkish"
+    ],
+    "accent_or_dialect": "American Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1DNQ39RByt2oF1op0JM_msqmd71Vq6Jom/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1Nm4ABZFQfLkB6XEeLQRvkwIQI5z0fDEv/view?usp=drive_link"
+    ],
+    "duration": "36:58 min",
+    "file_size_agent": "187 MB",
+    "file_size_respondent": "187 MB",
+    "device_used": "Microsoft LifeCam HD-3000 720p",
+    "noise_level": "Low",
+    "notes": "Ok (Almost perfect but some disturbance)"
+  }
+}

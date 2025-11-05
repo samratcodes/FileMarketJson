@@ -12,9 +12,7 @@
     "first_name": "Nompilo",
     "gender": "Female",
     "age": 26,
-    "city": "Bolemfontein, South Africa",
     "country": "South Africa",
-    "origin": "Free States, South Africa",
     "language_native": "English",
     "languages_known": ["Zulu", "Xhosa", "Tswana", "Sotho", "English"],
     "accent_or_dialect": "South African Accent",
@@ -22,11 +20,11 @@
   },
   "consent": "Yes",
   "recording_details": {
+        "recording_links_agent": [
+      "https://drive.google.com/file/d/19Jrx-GYXHChsbBRFbIg4gL90EhC3hCd7/view?usp=drive_link"
+    ],
     "recording_links_respondent": [
       "https://drive.google.com/file/d/1UV2LwAkrk0OLQvrfTz45fhdygWr2Yw88/view?usp=drive_link"
-    ],
-    "recording_links_agent": [
-      "https://drive.google.com/file/d/19Jrx-GYXHChsbBRFbIg4gL90EhC3hCd7/view?usp=drive_link"
     ],
     "duration": "38:21 min",
     "file_size_respondent": "193 MB",

@@ -12,9 +12,7 @@
     "first_name": "Evenly",
     "gender": "Female",
     "age": 43,
-    "city": "Johannesburg, South Africa",
     "country": "South Africa",
-    "origin": "Kwa-Zulu Natal, South Africa",
     "language_native": "Afrikaans",
     "languages_known": ["English", "Afrikaans"],
     "accent_or_dialect": "South African Accent",
@@ -22,11 +20,11 @@
   },
   "consent": "Yes",
   "recording_details": {
+        "recording_links_agent": [
+      "https://drive.google.com/file/d/1A8uRbrm5QFZvRrOnUpVerSF0F9qncopM/view?usp=sharing"
+    ],
     "recording_links_respondent": [
       "https://drive.google.com/file/d/1CNu2Q7B_GY9jozmqQZib3TYISIKiUunE/view?usp=sharing"
-    ],
-    "recording_links_agent": [
-      "https://drive.google.com/file/d/1A8uRbrm5QFZvRrOnUpVerSF0F9qncopM/view?usp=sharing"
     ],
     "duration": "36:36 min",
     "file_size_respondent": "185MB",
