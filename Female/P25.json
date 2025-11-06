@@ -13,7 +13,7 @@
     "gender": "Female",
     "age": 27,
     "country": "South Africa",
-    "language_native": "Isizulu, Isixhosa",
+    "language_native": "Isizulu",
     "languages_known": [
       "English",
       "Isuzulu",
@@ -35,6 +35,6 @@
     "file_size_respondent": "194.8 MB",
     "device_used": "Asus i5 laptop, headset",
     "noise_level": "Low",
-    "notes": "Ok"
+    "notes": "Good quality recording"
   }
 }
