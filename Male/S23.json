@@ -1,0 +1,36 @@
+{
+  "id": "S23",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Joshua",
+    "gender": "Male",
+    "age": 36,
+    "country": "Nigeria",
+    "language_native": "Igbo",
+    "languages_known": ["English", "Igbo", "French"],
+    "accent_or_dialect": "Nigerian Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/1cHBfiVfSHqOfWloohaVNIZtNKUBecLUz/view?usp=sharing"
+    ],
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/1AqxBB5GmfG_-GNEuchTvWmoHGX-2DgsJ/view?usp=sharing"
+    ],
+    "duration": "41:15 min",
+    "file_size_agent": "208 MB",
+    "file_size_respondent": "208 MB",
+    "device_used": "Samsung A35",
+    "noise_level": "Low (Almost perfect)",
+    "notes": "Clear audio with no noticeable interruptions."
+  }
+}
