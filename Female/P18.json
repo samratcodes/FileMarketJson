@@ -1,0 +1,40 @@
+{
+  "id": "P18",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Xolelwa",
+    "gender": "Female",
+    "age": 44,
+    "country": "South Africa",
+    "language_native": "Xhosa",
+    "languages_known": [
+      "English",
+      "Afrikaans",
+      "Xhosa"
+    ],
+    "accent_or_dialect": "Xhosa English Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/17c5KrSfYjKssEzbk_cspjsK_y0L5Z1pd/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1259-vLJUS0c8IypGy-jH8At-80Og4U_F/view?usp=drive_link"
+    ],
+    "duration": "34:44 min",
+    "file_size_agent": "185.3 MB",
+    "file_size_respondent": "185.4 MB",
+    "device_used": "Macbook Air, Wired earphone",
+    "noise_level": "Low",
+    "notes": "Noises in the background but overall good quality recording"
+  }
+}
