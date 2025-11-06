@@ -1,0 +1,40 @@
+{
+  "id": "B48",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Ekpali",
+    "gender": "Female",
+    "age": 24,
+    "country": "Nigeria",
+    "language_native": "Obudu",
+    "languages_known": [
+      "English",
+      "hausa",
+      "igala"
+    ],
+    "accent_or_dialect": "Obudu English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1dC5tXGI2lJDhTcf74WwIDE17FubjmhrG/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1MZpqOerqSS6Ui5BAN98Yt_qCbigm3K76/view?usp=drive_link"
+    ],
+    "duration": "35:18 min",
+    "file_size_agent": "177.84 MB",
+    "file_size_respondent": "178.23 MB",
+    "device_used": "Infinix Hot 8 AI(Phone)",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}

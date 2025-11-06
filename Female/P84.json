@@ -1,0 +1,40 @@
+{
+  "id": "P84",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Mbuyelo",
+    "gender": "Female",
+    "age": 30,
+    "country": "Johannesburg, South Africa",
+    "language_native": "Xitsonga",
+    "languages_known": [
+      "English",
+      "Isizulu",
+      "Xhosa"
+    ],
+    "accent_or_dialect": "XItso English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1yhq8fV0op8JJi8C3-3cuVQHtfQLUNnTF/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1Io2E7S2buRGr4URpG6Iuhm74vJBeS_Bk/view?usp=drive_link"
+    ],
+    "duration": "32:24 min",
+    "file_size_agent": "163.6 MB",
+    "file_size_respondent": "163.6 MB",
+    "device_used": "Packard Bell Montenero mini Laptop, Javra wired headset",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}

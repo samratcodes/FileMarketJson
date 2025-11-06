@@ -1,0 +1,40 @@
+{
+  "id": "B52",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Shyla",
+    "gender": "Female",
+    "age": 30,
+    "country": "Nigeria",
+    "language_native": "Luhya",
+    "languages_known": [
+      "English",
+      "luhya",
+      "kiswahili"
+    ],
+    "accent_or_dialect": "Luhya English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1XhC6u4cBqdo2TyMaI1qxx5eSxLG5ue95/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/13JPpyFsQbjuCE0H7KF2v38VFllxpE_Ai/view?usp=drive_link"
+    ],
+    "duration": "44:35 min",
+    "file_size_agent": "176.71 MB",
+    "file_size_respondent": "224.89 MB",
+    "device_used": "Redmi 15c(Phone)",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}

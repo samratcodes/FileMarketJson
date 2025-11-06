@@ -1,0 +1,39 @@
+{
+  "id": "PU35",
+  "agent_details": {
+    "code": "#0004C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Elizabeth",
+    "gender": "Female",
+    "age": 26,
+    "country": "Natungamo",
+    "language_native": "Runyankole",
+    "languages_known": [
+      "English",
+      "Luganda"
+    ],
+    "accent_or_dialect": "Kenyan accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1Zzk7zI2qQLFWVIQph95hr0DS7CTsfoiG/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1aUv-BAIH70RD_5XLUfRyz6GPH-dnbKRj/view?usp=drive_link"
+    ],
+    "duration": "32:31 min",
+    "file_size_agent": "164.1 MB",
+    "file_size_respondent": "164.1 MB",
+    "device_used": "Huawei P25",
+    "noise_level": "medium",
+    "notes": "ok"
+  }
+}
