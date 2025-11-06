@@ -1,0 +1,35 @@
+{
+  "id": "S75",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Rithabile",
+    "gender": "Female",
+    "age": 41,
+    "country": "South Africa",
+    "language_native": "Setswana",
+    "languages_known": ["English", "Afrikaans", "IsiZulu", "IsiXhosa", "Ndebele"],
+    "accent_or_dialect": "South African Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/1UWCBVrkenidoqBkzMYF-1CmiRPlHH0Yf/view?usp=sharing"
+    ],
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/1hW_arb9BGz8nsvu0UqjYJbLQgWkCxbKa/view?usp=sharing"
+    ],
+    "duration": "36:21 min",
+    "file_size_respondent": "183 MB",
+    "file_size_agent": "183 MB",
+    "device_used": "Itel A90",
+    "noise_level": "No noise issues",
+    "notes": "Clear audio with stable quality."
+  }
+}
