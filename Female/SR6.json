@@ -1,0 +1,44 @@
+{
+  "id": "SR6",
+  "agent_details": {
+    "code": "#000SR",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 21,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Veronica",
+    "gender": "Female",
+    "age": 19,
+    "country": "Uganda",
+    "language_native": "Luganda",
+    "languages_known": [
+      "English",
+      "Luganda",
+      "Chinese"
+    ],
+    "accent_or_dialect": "African accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1djuecFozdofeiuRihP8JDCKQQIOFg--9/view?usp=drive_link",
+      "https://drive.google.com/file/d/1S6q5ZQjVjEtWf0H5PszQ5PbNApwRY_-K/view?usp=drive_link",
+      "https://drive.google.com/file/d/1RkuhVQfdteLE3gNGtqU4B8Ydhnc3HNrm/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1cN-VNNltF3enRLWACPQ3umjj5HlQiUUE/view?usp=drive_link",
+      "https://drive.google.com/file/d/1YmnxDqYFPh8navBMSdv14GouqOV65GaZ/view?usp=drive_link",
+      "https://drive.google.com/file/d/1fEvD0zJAsA88UQWsXHfMQQQO20WWrnyf/view?usp=drive_link"
+    ],
+    "duration": "0:27:52, 0:07:02, 0:01:26",
+    "file_size_agent": "140.6 MB, 35.5 MB, 7.3 MB",
+    "file_size_respondent": "140.6 MB, 35.5 MB, 7.4 MB",
+    "device_used": "Itel A50 pro",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}
