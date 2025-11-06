@@ -1,0 +1,40 @@
+{
+  "id": "ST28",
+  "agent_details": {
+    "code": "#0005C",
+    "native_language": "Nepali",
+    "gender": "Female",
+    "age": 26,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Kedibone",
+    "gender": "Female",
+    "age": 29,
+    "country": "South Africa",
+    "language_native": "English",
+    "languages_known": [
+      "Zulu",
+      "Vonda",
+      "Xhosa"
+    ],
+    "accent_or_dialect": "South African Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/11aVQ_dFqqt0ZN8hdvhJLcvg7IreEMpS8/view"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1CfSLmVUbB8J3Jctl_8YV-9zWIryc5pDx/view"
+    ],
+    "duration": "31:32 min",
+    "file_size_agent": "159.1 MB",
+    "file_size_respondent": "159.1 MB",
+    "device_used": "Honor X7c, Wired Headphones",
+    "noise_level": "Low",
+    "notes": "audio is good"
+  }
+}
