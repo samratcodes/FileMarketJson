@@ -1,0 +1,32 @@
+{
+  "id": "P3",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Ian",
+    "gender": "Male",
+    "age": 27,
+    "country": "Uganda",
+    "language_native": "Lugisu",
+    "languages_known": ["English", "Lugisu", "Luganda"],
+    "accent_or_dialect": "Lugisu English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": ["https://drive.google.com/file/d/1pwEnyh4h3DMiAzi23wg0E-5hGebP_ZOo/view"],
+    "recording_link_respondent": ["https://drive.google.com/file/d/14I1LF962y_izWKhOtrXkGEfOVIRVvSv2/view"],
+    "duration": "42:32 min",
+    "file_size_agent": "214.6 MB",
+    "file_size_respondent": "214.6 MB",
+    "device_used": "Dell Laptop i7, Oraimo earphone",
+    "noise_level": "low",
+    "notes": "Ok"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "B2",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Drake",
+    "gender": "Male",
+    "age": 25,
+    "country": "Uganda",
+    "language_native": "Luganda",
+    "languages_known": ["English", "Luganda", "French"],
+    "accent_or_dialect": "Luganda English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": ["https://drive.google.com/file/d/1jqzTkP6YI3iAbqVFooYfPWShKgjfbKNY/view?usp=drive_link"],
+    "recording_link_respondent": ["https://drive.google.com/file/d/1X-EauUl8gEcA_crTv5nFDhLsBcrEcQi4/view?usp=drive_link"],
+    "duration": "40:04 min",
+    "file_size_agent": "208 MB",
+    "file_size_respondent": "208 MB",
+    "device_used": "HP Pro Book with wired earphones",
+    "noise_level": "very low",
+    "notes": "Ok"
+  }
+}
