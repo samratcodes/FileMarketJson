@@ -1,0 +1,40 @@
+{
+  "id": "P103",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Kenyan",
+    "gender": "Female",
+    "age": 23,
+    "city": "Kisumu",
+    "country": "Kenya"
+  },
+  "respondent_details": {
+    "first_name": "Jacqueline",
+    "gender": "Female",
+    "age": 27,
+    "country": "Kenya",
+    "language_native": "Kikuyu",
+    "languages_known": [
+      "Kikuyu",
+      "Kiswahili",
+      "English"
+    ],
+    "accent_or_dialect": "Kikuyu English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1P7xiTv_Dl3RNPLnaWfuDXRi-bvdau5h8/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1lDB4UozmZXvm7jLiUH-7nJBD475JO0Wb/view?usp=drive_link"
+    ],
+    "duration": "36:23 min",
+    "file_size_agent": "183.7 MB",
+    "file_size_respondent": "183.7 MB",
+    "device_used": "Samsung A31, Lenovo Thinkpad",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}
