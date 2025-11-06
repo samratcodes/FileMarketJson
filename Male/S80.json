@@ -1,0 +1,35 @@
+{
+  "id": "S80",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Sidney",
+    "gender": "Male",
+    "age": 24,
+    "country": "Kenya",
+    "language_native": "Dholuo",
+    "languages_known": ["Dholuo", "English", "Kiswahili"],
+    "accent_or_dialect": "Kenya Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/1Xd-Q5sB64LSco4_GdbE-2NAvoqzih_LT/view?usp=sharing"
+    ],
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/1aK9QxFZJC6_Hc17Xx-o80S1zLYv-GplB/view?usp=sharing"
+    ],
+    "duration": "37:05 min",
+    "file_size_respondent": "187.1 MB",
+    "file_size_agent": "187.1 MB",
+    "device_used": "Redmi 12C",
+    "noise_level": "Medium",
+    "notes": "Slight echo or self-reflection of sound at times but overall acceptable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "S83",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Abaho",
+    "gender": "Male",
+    "age": 26,
+    "country": "Uganda",
+    "language_native": "Kiswahili",
+    "languages_known": ["English", "Kiswahili"],
+    "accent_or_dialect": "Uganda Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/1JKbYBGlpP5lbsX8l70T14qofbtcP7Hh-/view?usp=sharing"
+    ],
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/1oZ4iEMWz8knAhZjmwuewujLcAHgvKYH0/view?usp=sharing"
+    ],
+    "duration": "41:01 min",
+    "file_size_respondent": "207 MB",
+    "file_size_agent": "207 MB",
+    "combined_file_size": "207 MB",
+    "device_used": "Infinix Smart 10",
+    "noise_level": "Ok (Some movement)",
+    "notes": "Minor handling movement noise but overall acceptable."
+  }
+}
