@@ -1,0 +1,38 @@
+{
+  "id": "ST14",
+  "agent_details": {
+    "code": "#0005C",
+    "native_language": "Nepali",
+    "gender": "Female",
+    "age": 26,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Bukky",
+    "gender": "Female",
+    "age": 29,
+    "country": "Nigeria",
+    "language_native": "Yoruba",
+    "languages_known": [
+      "English"
+    ],
+    "accent_or_dialect": "African Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1ED36qTqHrd_XqqzHM721Yx4JG7qZvDk8/view"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1ucoh_alu0laIoJtKeOmNVx-m5rSHIkCS/view"
+    ],
+    "duration": "31:03 min",
+    "file_size_agent": "156.7 MB",
+    "file_size_respondent": "156.6 MB",
+    "device_used": "HP H20",
+    "noise_level": "medium",
+    "notes": "audio is clear but rain sound throughout the whole audio"
+  }
+}

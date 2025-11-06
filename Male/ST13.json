@@ -1,0 +1,43 @@
+{
+  "id": "ST13",
+  "agent_details": {
+    "code": "#0005C",
+    "native_language": "Nepali",
+    "gender": "Female",
+    "age": 26,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Lee-roy",
+    "gender": "Male",
+    "age": 38,
+    "country": "South Africa",
+    "language_native": "English",
+    "languages_known": [
+      "African",
+      "Deutsch"
+    ],
+    "accent_or_dialect": "South African Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/18aWcQhaansVz-AUzY5sA94QJYCvr28XC/view?usp=sharing", 
+      "https://drive.google.com/file/d/1JuCBCsPohNi8vvLI-RCdX973Onnl5b7V/view", 
+      "https://drive.google.com/file/d/1U4VxqR3WOvxLsZpyRpuI9dF8Wkk3mtA5/view"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1op3EGbpT3qGNPAB3DORJ12eHzJ5uuO-H/view?usp=sharing", 
+      "https://drive.google.com/file/d/1rnkyn2myHt8SnppSkb_5BvI0S7FGAiSE/view?usp=sharing", 
+      "https://drive.google.com/file/d/1zO4ncxeJzG2nNujqutZdFgAW9jpTRBWp/view"
+    ],
+    "duration": "13:38 min",
+    "file_size_agent": "76.2 MB",
+    "file_size_respondent": "73.2 MB",
+    "device_used": "Motorolla G30",
+    "noise_level": "Low",
+    "notes": "audio is OK"
+  }
+}

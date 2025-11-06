@@ -1,0 +1,39 @@
+{
+  "id": "ST20",
+  "agent_details": {
+    "code": "#0005C",
+    "native_language": "Nepali",
+    "gender": "Female",
+    "age": 26,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Brian",
+    "gender": "Male",
+    "age": 23,
+    "country": "Kenya",
+    "language_native": "Kalenain",
+    "languages_known": [
+      "English",
+      "Swahili"
+    ],
+    "accent_or_dialect": "Kibsidis Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1wCMa6xvmgxyAYFPjuhTUcCwTA_o0GE6U/view"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1V2gAqXz4n9Bg0wMdZ52iMjPDB_GONYW2/view"
+    ],
+    "duration": "30:24 min",
+    "file_size_agent": "153.4 MB",
+    "file_size_respondent": "153.4 MB",
+    "device_used": "Techno Spark 40pro",
+    "noise_level": "Low",
+    "notes": "audio is good"
+  }
+}
