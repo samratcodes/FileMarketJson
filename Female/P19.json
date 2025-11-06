@@ -1,0 +1,39 @@
+{
+  "id": "P19",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Florrie",
+    "gender": "Female",
+    "age": 39,
+    "country": "South Africa",
+    "language_native": "Zulu",
+    "languages_known": [
+      "Zulu",
+      "English"
+    ],
+    "accent_or_dialect": "Zulu English Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1wl9NoDDUavPp3sEmF6ogJgIv180rfB19/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1mu9IcmlNjOTE5kRlP9vPv2-fb3IJq7Pe/view?usp=drive_link"
+    ],
+    "duration": "37:04 min",
+    "file_size_agent": "187.1 MB",
+    "file_size_respondent": "187.1 MB",
+    "device_used": "Asus Vivobook, Samsung wired earphone",
+    "noise_level": "Low",
+    "notes": "OK perfect"
+  }
+}

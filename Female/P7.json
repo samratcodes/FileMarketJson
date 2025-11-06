@@ -1,0 +1,41 @@
+{
+  "id": "P7",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Tanya",
+    "gender": "Female",
+    "age": 35,
+    "country": "South Africa",
+    "language_native": "Isizulu",
+    "languages_known": [
+      "Isizulu",
+      "Northern Sotho",
+      "Setswana",
+      "English"
+    ],
+    "accent_or_dialect": "Isizulu English accent",
+    "call_language": "English"
+  },
+  "consent": "yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/124Lgzl4SE8k7_fgnFWwjiFS57MIcEAfJ/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1_coSHTlAZ57bePmMc1iXmqFCXjYQvYd7/view?usp=drive_link"
+    ],
+    "duration": "37:19 min",
+    "file_size_agent": "188.1 MB",
+    "file_size_respondent": "188.3 MB",
+    "device_used": "Samsung Galaxy A05 phone, wired earphone",
+    "noise_level": "Low",
+    "notes": "OK, but we fill breathings, try to recommend not to keep too close the mic"
+  }
+}
