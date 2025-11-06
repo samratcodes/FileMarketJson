@@ -1,0 +1,36 @@
+{
+  "id": "P113",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Kenyan",
+    "gender": "Female",
+    "age": 23,
+    "city": "Kisumu",
+    "country": "Native Kenyan"
+  },
+  "respondent_details": {
+    "first_name": "Emmanuel",
+    "gender": "Male",
+    "age": 23,
+    "country": "Kenya",
+    "language_native": "Luo",
+    "languages_known": ["Luo", "Kiswahili", "English"],
+    "accent_or_dialect": "Luo English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1rADYGqr5Il-m156bmK8nXDxGPvCNXZ49/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1sPESY5OKHfX6G5eLB4usevRnSl5Qzpah/view?usp=drive_link"
+    ],
+    "duration": "32:04 min",
+    "file_size_agent": "161 MB",
+    "file_size_respondent": "161 MB",
+    "device_used": "Samsung S20, Dell",
+    "noise_level": "Low",
+    "notes": "Ok (low noise)"
+  }
+}

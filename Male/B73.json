@@ -1,0 +1,36 @@
+{
+  "id": "B73",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Nicholas",
+    "gender": "Male",
+    "age": 42,
+    "country": "Kenya",
+    "language_native": "Luo",
+    "languages_known": ["English", "luo", "kiswahili"],
+    "accent_or_dialect": "Luo English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1a0lRLO-_E3szw7G8J-sKoq2FanhWVQiA/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1bnF5zvvIovoFavLyM_V7FX-zkuWiXzri/view?usp=drive_link"
+    ],
+    "duration": "35.41 min",
+    "file_size_agent": "77.53 MB",
+    "file_size_respondent": "188.85 MB",
+    "device_used": "HP probook 450 G8",
+    "noise_level": "Low",
+    "notes": "audio is good"
+  }
+}

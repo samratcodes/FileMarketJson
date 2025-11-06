@@ -1,0 +1,38 @@
+{
+  "id": "B69",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Tom",
+    "gender": "Male",
+    "age": 24,
+    "country": "Kenya",
+    "language_native": "Kiswahili",
+    "languages_known": ["English", "kiswahili"],
+    "accent_or_dialect": "Kiswahili English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/13bo2unnU7kejavLMr5FvNEZFBNd-xdZf/view?usp=drive_link",
+      "https://drive.google.com/file/d/1t1dYMAk1ezKxywGEndhgOqUANLyTavhj/view?usp=drive_link",
+      "https://drive.google.com/file/d/1XWi0VW5R8SOMndhs7Wa3AskcFGdN9s3f/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1KLpo4TMEYSdV9mp-iKtf_EvlglaA8Cxi/view?usp=drive_link"
+    ],
+    "duration": "36.07 min",
+    "file_size_agent": "200.96 MB",
+    "file_size_respondent": "199.54 MB",
+    "device_used": "Mkopa HMD X20(phone), Oraimo wired headset",
+    "noise_level": "Low",
+    "notes": "Ok (low audio)"
+  }
+}

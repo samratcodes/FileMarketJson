@@ -1,0 +1,36 @@
+{
+  "id": "B82",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Edwin",
+    "gender": "Male",
+    "age": 23,
+    "country": "Kenya",
+    "language_native": "Kiswahili",
+    "languages_known": ["English", "kiswahili"],
+    "accent_or_dialect": "Kiswahili English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1DpkwaWRurfDQQ_z6CdGhJAwIaWXe_mvS/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1i6PbI0VSooR30u-AXRHUjQ3KaEGpe0Y-/view?usp=drive_link"
+    ],
+    "duration": "36.42 min",
+    "file_size_agent": "194.11 MB",
+    "file_size_respondent": "194.21 MB",
+    "device_used": "CL6(phone)",
+    "noise_level": "Low",
+    "notes": "ok (perfect)"
+  }
+}

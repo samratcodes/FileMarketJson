@@ -1,0 +1,39 @@
+{
+  "id": "P102",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Kenyan",
+    "gender": "Female",
+    "age": 23,
+    "city": "Kisumu",
+    "country": "Native Kenyan"
+  },
+  "respondent_details": {
+    "first_name": "Morgan",
+    "gender": "Male",
+    "age": 25,
+    "country": "Kenya",
+    "language_native": "Lugha",
+    "languages_known": ["Lugha", "Kiswahili", "English"],
+    "accent_or_dialect": "Lugha English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1EHwCaHU1LlBd655tgqNZh6zFQF_2ry9a/view?usp=drive_link",
+      "https://drive.google.com/file/d/1KpS304BleNST3Wz-s163jgK0Py8xTOyJ/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1IAjc28H9SHMRroowWipB5mP9SGRsous9/view?usp=drive_link",
+      "https://drive.google.com/file/d/1QT6AUHht6rZHFLTrH4yPf-pyF65sTwY2/view?usp=drive_link",
+      "https://drive.google.com/file/d/1P7WaJLUvaN8qmNYjIPhg7GlyZlB-nXB6/view?usp=drive_link"
+    ],
+    "duration": "36:38 min",
+    "file_size_agent": "185 MB",
+    "file_size_respondent": "182.1 MB",
+    "device_used": "Samsung A05, Macbook",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}
