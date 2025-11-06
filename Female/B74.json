@@ -1,0 +1,39 @@
+{
+  "id": "B74",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Joy",
+    "gender": "Female",
+    "age": 20,
+    "country": "Nigeria",
+    "language_native": "Yoruba",
+    "languages_known": [
+      "English",
+      "yoruba"
+    ],
+    "accent_or_dialect": "Yoruba English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1W18KoRWn9o0mPkxzGqIZE95Tbh8-Knif/view"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1wTYScCt7uklsGfl9X5hmYJETBMdHNJSa/view"
+    ],
+    "duration": "37.15 min",
+    "file_size_agent": "196.99 MB",
+    "file_size_respondent": "197.09 MB",
+    "device_used": "Samsung A33(phone)",
+    "noise_level": "Low",
+    "notes": "audio is good"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "B92",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Kim",
+    "gender": "Female",
+    "age": 29,
+    "country": "South Africa",
+    "language_native": "English",
+    "languages_known": [
+      "English",
+      "Afrikaans"
+    ],
+    "accent_or_dialect": "English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1rFg99KcGMvTgQH1D4R6PMLNvzK5JxdCf/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1rLWz83Eg19juWUmJLacoIBdNkHooX2YF/view?usp=drive_link"
+    ],
+    "duration": "32.56 min",
+    "file_size_agent": "174.22 MB",
+    "file_size_respondent": "174.25 MB",
+    "device_used": "HP 15s-eq2009ni, Logitech H111 wired headset",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}
