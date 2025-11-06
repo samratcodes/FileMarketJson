@@ -1,0 +1,36 @@
+{
+  "id": "S26",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Ferial",
+    "gender": "Female",
+    "age": 39,
+    "country": "South Africa",
+    "language_native": "English",
+    "languages_known": ["English", "Afrikaans"],
+    "accent_or_dialect": "South African Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+        "recording_links_agent": [
+      "https://drive.google.com/file/d/1nNsSIrTx8af4K-qddF67N8YygapkFKCb/view?usp=sharing"
+    ],
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/1l5Rwe86lfEwCouCa7Y-bHZ7ezW3ml5Yf/view?usp=sharing"
+    ],
+    "duration": "35:49 min",
+    "file_size_respondent": "181MB",
+    "file_size_agent": "181MB",
+    "device_used": "iPhone 12 Pro",
+    "noise_level": "White noise in background",
+    "notes": "Quality acceptable with constant low white noise."
+  }
+}

@@ -14,7 +14,13 @@
     "age": 33,
     "country": "South Africa",
     "language_native": "Siswati",
-    "languages_known": ["English", "Afrikaans", "Zulu", "Ndebele", "SiPedi"],
+    "languages_known": [
+      "English", 
+      "Afrikaans",
+       "Zulu",
+        "Ndebele",
+         "SiPedi"
+    ],
     "accent_or_dialect": "Nigerian English accent",
     "call_language": "English"
   },

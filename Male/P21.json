@@ -1,0 +1,36 @@
+{
+  "id": "P21",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Amos",
+    "gender": "Male",
+    "age": 21,
+    "country": "Kenya",
+    "language_native": "Swahili",
+    "languages_known": ["Kibikusu", "Swahili", "English"],
+    "accent_or_dialect": "Swahili English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1EggXfm7wmZGDPs5qNRqf0MlpWW_ug_tB/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1wlTlXqeECVH_vmy9aPTD5Y2G_qqr-IlG/view?usp=drive_link"
+    ],
+    "duration": "35:14 min",
+    "file_size_agent": "177.9 MB",
+    "file_size_respondent": "177.9 MB",
+    "device_used": "Vivo Y03 smartphone, Samsung wired earphone",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "S50",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Joshua",
+    "gender": "Male",
+    "age": 28,
+    "country": "Nigeria",
+    "language_native": "Yoruba",
+    "languages_known": [
+      "Yoruba",
+      "English"
+    ],
+    "accent_or_dialect": "Nigerian Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1osJQm_-Q2-5CJuu9_ePR5VqtePWPrnlt/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1yck6CVe7_Bpn_ndw83DUBydui3R9myE-/view?usp=drive_link"
+    ],
+    "duration": "39:42 min",
+    "file_size_agent": "200 MB",
+    "file_size_respondent": "200 MB",
+    "device_used": "Dell 7290, Tecno Small Headset",
+    "noise_level": "Low",
+    "notes": "Ok (Constant white noise and background noise)"
+  }
+}

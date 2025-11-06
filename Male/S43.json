@@ -1,0 +1,45 @@
+{
+  "id": "S43",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Kamogelo",
+    "gender": "Male",
+    "age": 31,
+    "country": "South Africa",
+    "language_native": "Sepedi",
+    "languages_known": [
+      "English",
+      "Afrikaans",
+      "isiXhosa",
+      "isiZulu",
+      "Tswana",
+      "Southern Sotho"
+    ],
+    "accent_or_dialect": "South African Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1ffy9dsYYQ8jhfEvqhRvMk3KkMOTZGrVM/view?usp=drive_link",
+      "https://drive.google.com/file/d/1rGoO1oOlXcAruAf9Iv4Q_JnT8A-oQojA/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1w2j7UHw-H5QfoTMbQul-cwx8VGTvwGK1/view?usp=drive_link",
+      "https://drive.google.com/file/d/16npkpyQ7w0AhYKTD5r9qaoh_yAu9zGU7/view?usp=drive_link"
+    ],
+    "duration": "40:14 min",
+    "file_size_agent": "202.8 MB",
+    "file_size_respondent": "202.1 MB",
+    "device_used": "Samsung A13, Headsets: VDenvenV",
+    "noise_level": "Low",
+    "notes": "Ok (Some gaps and background noise)"
+  }
+}

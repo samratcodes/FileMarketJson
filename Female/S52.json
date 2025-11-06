@@ -1,0 +1,41 @@
+{
+  "id": "S52",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "city": "Chitwan",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Sanya",
+    "gender": "Female",
+    "age": 23,
+    "country": "Nigeria",
+    "language_native": "Yoruba",
+    "languages_known": [
+      "Yoruba",
+      "English"
+    ],
+    "accent_or_dialect": "Nigerian Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/17oRW_f2JLcGevmM8mHR4zgYbjqY2IGON/view?usp=drive_link",
+      "https://drive.google.com/file/d/15d8i68_HnjKfvwJ7205NADkVUi6Tly-B/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1emtTCadsCaxf6_-1MxbPsoHkmenVQ535/view?usp=drive_link",
+      "https://drive.google.com/file/d/1kuOAuBze3wzjAo9cuQoTnRSZ8uix70II/view?usp=drive_link"
+    ],
+    "duration": "32:48 min",
+    "file_size_agent": "165 MB",
+    "file_size_respondent": "165 MB",
+    "device_used": "Dell Laptop Intel Core i5vPro, Oraimo Wired Earphone",
+    "noise_level": "Low",
+    "notes": "Ok (Constant background noise)"
+  }
+}
