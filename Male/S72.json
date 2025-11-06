@@ -1,0 +1,35 @@
+{
+  "id": "S72",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Obevurhieri",
+    "gender": "Male",
+    "age": 23,
+    "country": "Nigeria",
+    "language_native": "Urhobo",
+    "languages_known": ["English"],
+    "accent_or_dialect": "Nigerian Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/14ZlcGqkFtyErIuZbqx2Olbosb7cG1Jgw/view?usp=sharing"
+    ],
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/1Yws8KK1kN00S7P3WyaoyiTK3pO4Bfw58/view?usp=sharing"
+    ],
+    "duration": "36:02 min",
+    "file_size_respondent": "182 MB",
+    "file_size_agent": "182 MB",
+    "device_used": "Techno Spark 10",
+    "noise_level": "Ok (Some background noise)",
+    "notes": "General clarity acceptable, background noise present but understandable."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ST30",
+  "agent_details": {
+    "code": "#0005C",
+    "native_language": "Nepali",
+    "gender": "Female",
+    "age": 26,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Muhhamad",
+    "gender": "Male",
+    "age": 21,
+    "country": "Nigeria",
+    "language_native": "English, Yoruba",
+    "languages_known": [
+      "English",
+      "Arabic",
+      "French",
+      "Hausa",
+      "Yoruba"
+    ],
+    "accent_or_dialect": "Nigerian",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1pSMLPAcDo30R2UCO3JdyMAY5EmQm2KJJ/view"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/14hK8MoVYwCZ4l2PcleyNoF2TuRswi0d_/view"
+    ],
+    "duration": "30:06 min",
+    "file_size_agent": "18.6 MB",
+    "file_size_respondent": "151.9 MB",
+    "device_used": "Techno Spark 7, Oraimo Earphones",
+    "noise_level": "Low",
+    "notes": "audio is good"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "P70",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Burudi",
+    "gender": "Male",
+    "age": 24,
+    "country": "Kenya",
+    "language_native": "Luhya",
+    "languages_known": ["Swahili", "English", "Luhya"],
+    "accent_or_dialect": "Luhya",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1lKAeI3Ru7rSba6ZYbyxfYMo8f0Yg4Eka/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1S0hvDtm0Yose4PNh-YO1tFu8kwL_Y84g/view?usp=drive_link"
+    ],
+    "duration": "32:48 min",
+    "file_size_agent": "165.3 MB",
+    "file_size_respondent": "165.5 MB",
+    "device_used": "Tecno X20, Oraimo earphones",
+    "noise_level": "Low",
+    "notes": "ok ( low voice)"
+  }
+}

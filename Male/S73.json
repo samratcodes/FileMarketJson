@@ -1,0 +1,35 @@
+{
+  "id": "S73",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Abdulrahaman",
+    "gender": "Male",
+    "age": 28,
+    "country": "Nigeria",
+    "language_native": "Hausa",
+    "languages_known": ["English", "Hausa"],
+    "accent_or_dialect": "Nigerian Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/1bxUlrrgd1cvJsCrBlH6xAMC0C_mDMaAw/view?usp=sharing"
+    ],
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/1bFHM_tRvpM0hgDVu6GjBYeT7uODxxWYA/view?usp=sharing"
+    ],
+    "duration": "35:26 min",
+    "file_size_respondent": "179 MB",
+    "file_size_agent": "179 MB",
+    "device_used": "Itel A90",
+    "noise_level": "Ok (some background noise but overall clear)",
+    "notes": "Almost perfect clarity, slight background noise present."
+  }
+}

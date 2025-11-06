@@ -1,0 +1,40 @@
+{
+  "id": "B54",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Mac",
+    "gender": "Male",
+    "age": 29,
+    "country": "South Africa",
+    "language_native": "Luganda",
+    "languages_known": ["English", "afrikaans"],
+    "accent_or_dialect": "Luganda English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1L1leSG04BAM_X-ctuawa5KnDl94YXIlk/view?usp=drive_link",
+      "https://drive.google.com/file/d/1POn_GhyxLnHd_UMOT04vZkKl0d5prt74/view?usp=drive_link",
+      "https://drive.google.com/file/d/1suH1vDurJVSqIYsUFVVFt25ToK-ieYMV/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1-ubjh8eg0nlU65pE9GOKTFbuEO7vdYtv/view?usp=drive_link",
+      "https://drive.google.com/file/d/1ldjGRmluXJj6engqNyeUAjMsy57duG3l/view?usp=drive_link",
+      "https://drive.google.com/file/d/1qNZiK6VbYakLIk5vSYt5aLMNaMqCioiM/view?usp=drive_link"
+    ],
+    "duration": "42:42 min",
+    "file_size_agent": "215.6 MB",
+    "file_size_respondent": "215 MB",
+    "device_used": "Huawei P30 lite(phone), ordinary wired headphone",
+    "noise_level": "Low",
+    "notes": "Ok (low noise)"
+  }
+}

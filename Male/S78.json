@@ -1,0 +1,35 @@
+{
+  "id": "S78",
+  "agent_details": {
+    "code": "#0002C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 22,
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Benson",
+    "gender": "Male",
+    "age": 45,
+    "country": "Kenya",
+    "language_native": "Swahili",
+    "languages_known": ["English"],
+    "accent_or_dialect": "Kenya Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_links_respondent": [
+      "https://drive.google.com/file/d/196NVJoCmm67F_UtghmX_Z2qCHG3YgxZQ/view?usp=sharing"
+    ],
+    "recording_links_agent": [
+      "https://drive.google.com/file/d/17VNrO4nq2utK-bD-anWOi_f50wu-reXE/view?usp=sharing"
+    ],
+    "duration": "35:52 min",
+    "file_size_respondent": "181 MB",
+    "file_size_agent": "181 MB",
+    "device_used": "Techno Pop 8",
+    "noise_level": "Ok (contains small noise when speaking)",
+    "notes": "Minor background vocal noise but overall acceptable."
+  }
+}

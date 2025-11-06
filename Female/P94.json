@@ -1,0 +1,37 @@
+{
+  "id": "P94",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Rebecca",
+    "gender": "Female",
+    "age": 30,
+    "country": "South Africa",
+    "language_native": "Setswana",
+    "languages_known": ["English", "Setswana", "Zulu"],
+    "accent_or_dialect": "Setswana Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1y00hcD8tECQywiQYnNx5TQMeycOSVcT8/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1bClpzeypNRFHSgwXiIs23Y9lgcUDyVGm/view?usp=drive_link",
+      "https://drive.google.com/file/d/1i8y6YxQiQ7Gc4Z-llGdyxSioJbuHH_2M/view?usp=drive_link"
+    ],
+    "duration": "34:44 min",
+    "file_size_agent": "175.3 MB",
+    "file_size_respondent": "166.8 MB",
+    "device_used": "Samsung Android phone, wired earphones.",
+    "noise_level": "Low",
+    "notes": "Ok with low noise"
+  }
+}
