@@ -1,0 +1,34 @@
+{
+  "id": "P98",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Lerato",
+    "gender": "Female",
+    "age": 31,
+    "country": "South Africa",
+    "language_native": "Setswana",
+    "languages_known": ["English", "Zulu", "Setswana"],
+    "accent_or_dialect": "South African English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1nJU5JmWZFOirAzraM0oXJPzgQNJQpoLj/view?usp=drive_link"
+    ],
+    "recording_link_respondent": ["https://drive.google.com/file/d/16TKxYj0t9eHE2En0EzfuxhnKt3l-hZEE/view?usp=drive_link"],
+    "duration": "33:27 min",
+    "file_size_agent": "168.9 MB",
+    "file_size_respondent": "168.8 MB",
+    "device_used": "Samsung A26, Wired earphones",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "P95",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Zozibini",
+    "gender": "Female",
+    "age": 29,
+    "country": "South Africa",
+    "language_native": "Xhosa",
+    "languages_known": ["Xhosa", "Zulu", "English", "South Sotho", "Setswana"],
+    "accent_or_dialect": "Xhosa Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/17pV6vCca3N9LU9QpCCBi1M78xzbhCAmT/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/17nwTYe2tzqrRUonqifyiMDRjC3r6_v7q/view?usp=drive_link"
+    ],
+    "duration": "32:56 min",
+    "file_size_agent": "166.3 MB",
+    "file_size_respondent": "166.2 MB",
+    "device_used": "Asus Laptop, Volcano headsets",
+    "noise_level": "Low",
+    "notes": "Ok (medium noise)"
+  }
+}

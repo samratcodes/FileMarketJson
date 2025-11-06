@@ -1,0 +1,36 @@
+{
+  "id": "P93",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Monica",
+    "gender": "Female",
+    "age": 33,
+    "country": "South Africa",
+    "language_native": "Xhosa",
+    "languages_known": ["Xhosa", "Zulu", "English"],
+    "accent_or_dialect": "South African English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1XanSTDzZvN1_8yNL8UQL7YBAuRNzVyhy/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1X1hfEuBdYYlHRxcmMWsAj9KY9JaQRwXl/view?usp=drive_link"
+    ],
+    "duration": "31:49 min",
+    "file_size_agent": "160.6 MB",
+    "file_size_respondent": "160.6 MB",
+    "device_used": "Dell laptop, wired headsets with mic",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}
