@@ -1,0 +1,41 @@
+{
+  "id": "B11",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Brendah",
+    "gender": "Female",
+    "age": 34,
+    "country": "Uganda",
+    "language_native": "Lusoga",
+    "languages_known": [
+      "Lusoga",
+      "English",
+      "Arabic"
+    ],
+    "accent_or_dialect": "Lusoga, English accent",
+    "call_language": "English"
+  },
+  "consent": "yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1FEdIDUz1IbcB7SVTjqFMtF1To8C16UQr/view"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/17wPAI4ge5OB5gry3IHGEiaFU8P2tsmJl/view",
+      "https://drive.google.com/file/d/1ELhfAUafdLaEamxkmnj8geBlsHThKlEu/view"
+    ],
+    "duration": "31:56 min",
+    "file_size_agent": "160 MB",
+    "file_size_respondent": "159 MB",
+    "device_used": "Samsung A51 (Phone), wired headset",
+    "noise_level": "Low",
+    "notes": "ok"
+  }
+}

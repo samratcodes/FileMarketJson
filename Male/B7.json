@@ -1,0 +1,32 @@
+{
+  "id": "B7",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Esien",
+    "gender": "Male",
+    "age": 36,
+    "country": "Nigeria",
+    "language_native": "English",
+    "languages_known": ["Efik", "English", "French", "German", "Spanish"],
+    "accent_or_dialect": "Efik English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": ["https://drive.google.com/file/d/1ngo0Qveebj-k39Gkv8wstw8ItrO46nL9/view"],
+    "recording_link_respondent": ["https://drive.google.com/file/d/1Q50ODbTcxTv8awxpnMejXdQ0ZYeoDiw6/view"],
+    "duration": "35:45 min",
+    "file_size_agent": "179 MB",
+    "file_size_respondent": "180 MB",
+    "device_used": "HP Laptop, Oriamo wired earpiece",
+    "noise_level": "low",
+    "notes": "ok"
+  }
+}
