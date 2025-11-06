@@ -1,0 +1,40 @@
+{
+  "id": "AA5",
+  "agent_details": {
+    "code": "#000AA",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 21,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Cyrus",
+    "gender": "Male",
+    "age": 22,
+    "country": "Uganda",
+    "language_native": "Luganda",
+    "languages_known": [
+      "Luganda",
+      "English",
+      "Chi"
+    ],
+    "accent_or_dialect": "African accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1ogR2npdAUgNhdVWfJElPOR9JnxT0jyO3/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1L8ORptH8Rdvyy4fEMvWtnW-WWunXYH4E/view?usp=drive_link"
+    ],
+    "duration": "0:30:27",
+    "file_size_agent": "153 MB",
+    "file_size_respondent": "153 MB",
+    "device_used": "Dell Inspiron i5 10th gen",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}

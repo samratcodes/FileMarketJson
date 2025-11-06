@@ -1,0 +1,39 @@
+{
+  "id": "AA1",
+  "agent_details": {
+    "code": "#000AA",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 21,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Maxim",
+    "gender": "Male",
+    "age": 30,
+    "country": "Uganda",
+    "language_native": "Luganda",
+    "languages_known": [
+      "English",
+      "Madi"
+    ],
+    "accent_or_dialect": "African accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1eWeb62rhfAQnGeqNPYgcZzNZTcCZNS3-/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1JfTY8rDkK-7PvxTEzcfvY7FfCaDl4OhN/view?usp=drive_link"
+    ],
+    "duration": "0:37:52",
+    "file_size_agent": "191 MB",
+    "file_size_respondent": "188 MB",
+    "device_used": "Oneplus Phone",
+    "noise_level": "Low",
+    "notes": "low voice"
+  }
+}
