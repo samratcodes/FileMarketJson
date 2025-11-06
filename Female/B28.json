@@ -1,0 +1,43 @@
+{
+  "id": "B28",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Thato",
+    "gender": "Female",
+    "age": 49,
+    "country": "South Africa",
+    "language_native": "Sesotho",
+    "languages_known": [
+      "English",
+      "Sesotho",
+      "isizulu",
+      "setswana",
+      "afrikaans",
+      "zonga"
+    ],
+    "accent_or_dialect": "Sesotho English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1hRWEVbR3XNRFCGy3qi40N9121Oa-IGB5/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1tPXE3iDPKUydRXAO0073YpDny0_RURzG/view?usp=drive_link"
+    ],
+    "duration": "35:17 min",
+    "file_size_agent": "178 MB",
+    "file_size_respondent": "178 MB",
+    "device_used": "HP Laptop, Hoco wired earphone",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}

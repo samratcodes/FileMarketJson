@@ -1,0 +1,43 @@
+{
+  "id": "B31",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Matsotso",
+    "gender": "Female",
+    "age": 35,
+    "country": "South Africa",
+    "language_native": "English",
+    "languages_known": [
+      "English",
+      "luganda",
+      "ankole",
+      "french"
+    ],
+    "accent_or_dialect": "Luganda English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/11YKTIw7eixbBTheF1aAoCsxPaYCuEZM0/view?usp=sharing", 
+      "https://drive.google.com/file/d/1oNPGKgr08cdViG-WxxdLrnl5O2v8-ORO/view?usp=sharing"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1ZdOpp6AKwy2wCMY_Ig-8OTEXYi07C5H-/view?usp=sharing",
+      "https://drive.google.com/file/d/1c0cwpj9rHEEg8NQExzYxs7v6UouLp0nu/view?usp=sharing"
+    ],
+    "duration": "37:33 min",
+    "file_size_agent": "189.4 MB",
+    "file_size_respondent": "172.3 MB",
+    "device_used": "Dell i5 1145G7, Oraimo wired earphone",
+    "noise_level": "Low",
+    "notes": "Ok (but some noises)"
+  }
+}
