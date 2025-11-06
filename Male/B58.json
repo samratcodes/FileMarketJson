@@ -1,0 +1,36 @@
+{
+  "id": "B58",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Robert",
+    "gender": "Male",
+    "age": 21,
+    "country": "Kenya",
+    "language_native": "English",
+    "languages_known": ["English", "swahili", "kamba", "kikuyu"],
+    "accent_or_dialect": "English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1Ds80dCQGyBPoChrm8BE_QDXw6ATp5HJR/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1xO1vaUlnl2JXySqIwyYxlH1L04SB__Pw/view?usp=drive_link"
+    ],
+    "duration": "36:12 min",
+    "file_size_agent": "182 MB",
+    "file_size_respondent": "182 MB",
+    "device_used": "samsung A05(phone), oraimo wired headphone",
+    "noise_level": "Low",
+    "notes": "audio is good"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "B53",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Etienne",
+    "gender": "Male",
+    "age": 32,
+    "country": "South Africa",
+    "language_native": "English",
+    "languages_known": ["English", "afrikaans"],
+    "accent_or_dialect": "English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1zNQby4uGTWVCgT14fQjBJWNDSEmT_bB4/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1kCw_iIy4ep-7r-Py66QyE46F_3UA_DSA/view?usp=drive_link"
+    ],
+    "duration": "43:30 min",
+    "file_size_agent": "218.9 MB",
+    "file_size_respondent": "219.3 MB",
+    "device_used": "Acer i7 6700, yealink wired headset",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}
