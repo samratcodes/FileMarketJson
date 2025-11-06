@@ -1,0 +1,43 @@
+{
+  "id": "P100",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Kenyan",
+    "gender": "Female",
+    "age": 23,
+    "city": "Kisumu",
+    "country": "Kenya"
+  },
+  "respondent_details": {
+    "first_name": "Siphiwe",
+    "gender": "Male",
+    "age": 30,
+    "country": "South Africa",
+    "city": "Virgibia",
+    "language_native": "Isixhosa",
+    "languages_known": [
+      "Isixhosa",
+      "Zulu",
+      "English"
+    ],
+    "accent_or_dialect": "Isixhosa English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1QkQHkkc8kpWcWJnk9Yrz9NHInmjOFifK/view?usp=drive_link",
+      "https://drive.google.com/file/d/1Fi0OP3cUYjL1TqzHeeRzkMw-CpBxxUEE/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/14maQa_FztnGWNIUpD8D_9OYIHCKQNKZE/view?usp=drive_link",
+      "https://drive.google.com/file/d/1XYtmoFrFLzaNkjkvkJuf1PsYCbxQuJll/view?usp=drive_link"
+    ],
+    "duration": "32.88 min",
+    "file_size_agent": "161.6 MB",
+    "file_size_respondent": "166.7 MB",
+    "device_used": "Samsung A11, HP laptop",
+    "noise_level": "Low",
+    "notes": "OK"
+  }
+}

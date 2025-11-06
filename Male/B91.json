@@ -1,0 +1,34 @@
+{
+  "id": "B91",
+  "agent_details": {
+    "code": "#0003C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 32,
+    "city": "Gangtok",
+    "country": "India"
+  },
+  "respondent_details": {
+    "first_name": "Ezrah",
+    "gender": "Male",
+    "age": 25,
+    "country": "Kenya",
+    "language_native": "Swahili",
+    "languages_known": ["English", "swahili", "french"],
+    "accent_or_dialect": "Swahili English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": ["https://drive.google.com/file/d/1FihLcfahJBX5C9yrWJolQf3ODwl81vxL/view?usp=drive_link"],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1BbHs4U_lWc2UY8T93AYEBkWhVO5MVXTQ/view?usp=drive_link"
+    ],
+    "duration": "32.38 min",
+    "file_size_agent": "172.63 MB",
+    "file_size_respondent": "172.64 MB",
+    "device_used": "HP 15 da0xxx, Oraimo wired headset",
+    "noise_level": "Low",
+    "notes": "Ok (perfect)"
+  }
+}

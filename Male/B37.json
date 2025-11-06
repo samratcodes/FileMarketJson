@@ -11,7 +11,7 @@
   "respondent_details": {
     "first_name": "Peter",
     "gender": "Male",
-    "age": 29,
+    "age": 29, 
     "country": "Kenya",
     "language_native": "Swahili",
     "languages_known": ["English", "swahili"],

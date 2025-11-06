@@ -1,0 +1,39 @@
+{
+  "id": "P101",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Kenyan",
+    "gender": "Female",
+    "age": 23,
+    "city": "Kisumu",
+    "country": "Native Kenyan"
+  },
+  "respondent_details": {
+    "first_name": "Newton",
+    "gender": "Male",
+    "age": 22,
+    "country": "Kenya",
+    "language_native": "Meru",
+    "languages_known": ["Meru", "Kiswahili", "English"],
+    "accent_or_dialect": "Meru English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1qA-BPgkoc5UhhDbHocTKU7DnMxvmpPsl/view?usp=drive_link",
+      "https://drive.google.com/file/d/1fI637IfQ-kulz2EXPm1kDpdARuau-Q38/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1QTdi7UvxCMAHRzrkVYP8LBtw8eY6kqT3/view?usp=drive_link",
+      "https://drive.google.com/file/d/17alL8dw0aUFTZhw-W-9ty9WD0ciaAFYM/view?usp=drive_link",
+      "https://drive.google.com/file/d/1MFpijiAGhoGZjCOY9pkunCBrEFTaG_UP/view?usp=drive_link"
+    ],
+    "duration": "34:03 min",
+    "file_size_agent": "177 MB",
+    "file_size_respondent": "177 MB",
+    "device_used": "Tecno spark 10C",
+    "noise_level": "Low",
+    "notes": "Ok (some noise in background)"
+  }
+}

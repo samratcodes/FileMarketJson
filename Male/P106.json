@@ -1,0 +1,36 @@
+{
+  "id": "P106",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Kenyan",
+    "gender": "Female",
+    "age": 23,
+    "city": "Kisumu",
+    "country": "Native Kenyan"
+  },
+  "respondent_details": {
+    "first_name": "Collins",
+    "gender": "Male",
+    "age": 35,
+    "country": "South Africa",
+    "language_native": "Setswana",
+    "languages_known": ["Setswana", "Zulu", "English"],
+    "accent_or_dialect": "Setswana English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1_sziTh02btwZ-zc8PyFhBSj3YfCiBk9Z/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1hErs46-hCVW1e_tIQ-QR5POvxOeyS-9W/view?usp=drive_link"
+    ],
+    "duration": "31:01 min",
+    "file_size_agent": "156.5 MB",
+    "file_size_respondent": "156.5 MB",
+    "device_used": "Iphone 12 pro, Acer Travelmate",
+    "noise_level": "Low",
+    "notes": "Ok (perfect)"
+  }
+}

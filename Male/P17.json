@@ -1,0 +1,40 @@
+{
+  "id": "P17",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 36,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Elijah",
+    "gender": "Male",
+    "age": 27,
+    "country": "Kenya",
+    "city": "Nairobi",
+    "language_native": "English",
+    "languages_known": [
+      "English",
+      "Swahili"
+    ],
+    "accent_or_dialect": "Swahili English Accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1wmdWbsh74w3W1CxdytYjcnJsWMUUgg0I/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1dCeZPwqXFasMW3HfygmUPTVOuQiPQpB4/view?usp=drive_link"
+    ],
+    "duration": "36:13 min",
+    "file_size_agent": "182.7 MB",
+    "file_size_respondent": "182.8 MB",
+    "device_used": "Samsung Galaxy S16, no earphone",
+    "noise_level": "Low",
+    "notes": "Audio is OK"
+  }
+}
