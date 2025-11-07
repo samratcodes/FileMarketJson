@@ -2,11 +2,11 @@
   "id": "B77",
   "agent_details": {
     "code": "#0003C",
-    "native_language": "Nepali",
-    "gender": "Male",
-    "age": 32,
-    "city": "Gangtok",
-    "country": "Native Nepali"
+    "native_language": "Zulu",
+    "gender": "Female",
+    "age": 36,
+    "city": "Johannesburg",
+    "country": "South Africa"
   },
   "respondent_details": {
     "first_name": "Esther",
@@ -14,7 +14,7 @@
     "age": 29,
     "country": "Nigeria",
     "language_native": "English",
-    "languages_known": [""],
+    "languages_known": ["English"],
     "accent_or_dialect": "English accent",
     "call_language": "English"
   },

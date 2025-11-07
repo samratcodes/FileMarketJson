@@ -20,10 +20,10 @@
   },
   "consent": "Yes",
   "recording_details": {
-        "recording_links_agent": [
+        "recording_link_agent": [
       "https://drive.google.com/file/d/1nNsSIrTx8af4K-qddF67N8YygapkFKCb/view?usp=sharing"
     ],
-    "recording_links_respondent": [
+    "recording_link_respondent": [
       "https://drive.google.com/file/d/1l5Rwe86lfEwCouCa7Y-bHZ7ezW3ml5Yf/view?usp=sharing"
     ],
     "duration": "35:49 min",

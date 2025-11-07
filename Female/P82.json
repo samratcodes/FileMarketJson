@@ -12,7 +12,7 @@
     "first_name": "Juliet",
     "gender": "Female",
     "age": 32,
-    "country": "Lagos, Nigeria",
+    "country": "Nigeria",
     "language_native": "Yoruba",
     "languages_known": [
       "English",
@@ -34,6 +34,6 @@
     "file_size_respondent": "181.6 MB",
     "device_used": "Dell Latitude i5 laptop, Techno earphone",
     "noise_level": "Low",
-    "notes": "Ok (low noise)"
+    "notes": "Ok"
   }
 }

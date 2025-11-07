@@ -1,0 +1,40 @@
+{
+  "id": "P116",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Native Kenyan",
+    "gender": "Female",
+    "age": 23,
+    "city": "Kisumu",
+    "country": "Kenya"
+  },
+  "respondent_details": {
+    "first_name": "Mourine",
+    "gender": "Female",
+    "age": 21,
+    "country": "Kenya",
+    "language_native": "Kamba",
+    "languages_known": [
+      "Kamba",
+      "Kiswahili",
+      "English"
+    ],
+    "accent_or_dialect": "Kamba English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1XejAPjHH8QigH3RvkAF0YrsOcAtFwShp/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1rw92neTb8yvKXjj4u9EEH0w8sqjsPuVX/view?usp=drive_link"
+    ],
+    "duration": "31:42 min",
+    "file_size_agent": "160 MB",
+    "file_size_respondent": "160 MB",
+    "device_used": "Iphone 12 pro, Desktop NIDOU3S",
+    "noise_level": "Low",
+    "notes": "ok"
+  }
+}

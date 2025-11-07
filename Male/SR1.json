@@ -1,0 +1,39 @@
+{
+  "id": "SR1",
+  "agent_details": {
+    "code": "#000SR",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 21,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Olwa",
+    "gender": "Male",
+    "age": 22,
+    "country": "Uganda",
+    "language_native": "Langi",
+    "languages_known": [
+      "English",
+      "Langi"
+    ],
+    "accent_or_dialect": "African accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1W4M_pqVvPFcbf-5FlBXV6mIFot6R2NhE/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1Jzqs-d6vDQlUAcZxbRmZgIXiniwhsAvy/view?usp=drive_link"
+    ],
+    "duration": "0:30:23",
+    "file_size_agent": "153.5 MB",
+    "file_size_respondent": "153.5 MB",
+    "device_used": "HP Pavilion 15",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}

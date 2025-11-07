@@ -1,0 +1,39 @@
+{
+  "id": "P123",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Kenyan",
+    "gender": "Female",
+    "age": 23,
+    "city": "Kisumu",
+    "country": "Kenya"
+  },
+  "respondent_details": {
+    "first_name": "Portia",
+    "gender": "Female",
+    "age": 28,
+    "country": "Richard Bay, South Africa",
+    "language_native": "Zulu",
+    "languages_known": [
+      "Zulu",
+      "English"
+    ],
+    "accent_or_dialect": "Zulu English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1wG_VAZsgfzVfa6r5ZBW4fnvZxIKGxEam/view"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1UZW78Ry7LJrfabnSEz3cyK_QqH6bXLL_/view?usp=drive_link"
+    ],
+    "duration": "32:44 min",
+    "file_size_agent": "165 MB",
+    "file_size_respondent": "165 MB",
+    "device_used": "Iphone 13, Macbook Air 13, Apple earphones",
+    "noise_level": "Low",
+    "notes": "ok"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SR5",
+  "agent_details": {
+    "code": "#000SR",
+    "native_language": "Nepali",
+    "gender": "Male",
+    "age": 21,
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  "respondent_details": {
+    "first_name": "Mukisa",
+    "gender": "Female",
+    "age": 27,
+    "country": "Uganda",
+    "language_native": "English",
+    "languages_known": [
+      "English",
+      "Luganda",
+      "Lugwe",
+      "Swahili"
+    ],
+    "accent_or_dialect": "African accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/15Ke4rzZNlZlaOcWtVem6pAMaxXQY1Vux/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1u0OhWfLUQgBieEgTWJZMCDoPmDOg9_Vx/view?usp=drive_link"
+    ],
+    "duration": "0:32:25",
+    "file_size_agent": "163.7 MB",
+    "file_size_respondent": "163.6 MB",
+    "device_used": "Samsung M15",
+    "noise_level": "Low",
+    "notes": "Ok"
+  }
+}

@@ -20,11 +20,11 @@
   },
   "consent": "Yes",
   "recording_details": {
-        "recording_links_agent": [
+        "recording_link_agent": [
       "https://drive.google.com/file/d/1pRTN5nHY2P_MZP0hNRTTI0UWT5ib-smF/view?usp=drive_link",
       "https://drive.google.com/file/d/1PeXmwze-Imgt5d9YWzbObdavdzgaZ5NI/view?usp=drive_link"
     ],
-    "recording_links_respondent": [
+    "recording_link_respondent": [
       "https://drive.google.com/file/d/14CAPGnjnfIrnO66fLG1SomVDA0aMzZfZ/view?usp=drive_link",
       "https://drive.google.com/file/d/1l-b1LLX_MorzPr_gIpPgnWmRCk4s-CDY/view?usp=drive_link"
     ],

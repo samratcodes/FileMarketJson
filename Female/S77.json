@@ -5,6 +5,7 @@
     "native_language": "Nepali",
     "gender": "Male",
     "age": 22,
+    "city": "Chitwan",
     "country": "Nepal"
   },
   "respondent_details": {
@@ -19,11 +20,11 @@
   },
   "consent": "Yes",
   "recording_details": {
-    "recording_links_respondent": [
+    "recording_link_respondent": [
       "https://drive.google.com/file/d/1zUBg02G_zhSKnamNwQj4GADxEfN8e0cy/view?usp=drive_link",
       "https://drive.google.com/file/d/1GK6Hps09_LWmf3rzYUSVKZzDbfk7j5wg/view?usp=drive_link"
     ],
-    "recording_links_agent": [
+    "recording_link_agent": [
       "https://drive.google.com/file/d/1a_F_MPAuY8cAfsgbU46fjm4-zYyF3CcX/view?usp=drive_link",
       "https://drive.google.com/file/d/1bjyxoyQZnlmM4dpd6oP0hFL18cRYHgi1/view?usp=drive_link"
     ],

@@ -19,11 +19,11 @@
   },
   "consent": "Yes",
   "recording_details": {
-    "recording_links_respondent": [
-      "https://drive.google.com/file/d/14ZlcGqkFtyErIuZbqx2Olbosb7cG1Jgw/view?usp=sharing"
-    ],
-    "recording_links_agent": [
+    "recording_link_agent": [
       "https://drive.google.com/file/d/1Yws8KK1kN00S7P3WyaoyiTK3pO4Bfw58/view?usp=sharing"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/14ZlcGqkFtyErIuZbqx2Olbosb7cG1Jgw/view?usp=sharing"
     ],
     "duration": "36:02 min",
     "file_size_respondent": "182 MB",
