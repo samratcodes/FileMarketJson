@@ -13,9 +13,9 @@
     "gender": "Female",
     "age": 23,
     "country": "Kenya",
-    "language_native": "English, Swahili, Kamba",
+    "language_native": "Swahili",
     "languages_known": [
-      ""
+      "English", "Swahili", "Kamba"
     ],
     "accent_or_dialect": "American",
     "call_language": "English"
