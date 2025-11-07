@@ -20,13 +20,17 @@
   },
   "consent": "Yes",
   "recording_details": {
-    "recording_link_agent": ["https://drive.google.com/file/d/1bcW1wswzRGvMZax00Lw1q8QZTTSkkkxA/view?usp=sharing"],
-    "recording_link_respondent": ["https://drive.google.com/file/d/1he3hcmWjkgCUKKr8pG38IKRc9t7oZRdx/view?usp=sharing"],
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1bcW1wswzRGvMZax00Lw1q8QZTTSkkkxA/view?usp=sharing"
+      ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1he3hcmWjkgCUKKr8pG38IKRc9t7oZRdx/view?usp=sharing"
+      ],
     "duration": "37:41 min",
     "file_size_agent": "190 MB",
     "file_size_respondent": "190 MB",
     "device_used": "HP computer, Earphone",
-    "noise_level": "OK",
+    "noise_level": "Very low",
     "notes": "Small constant white noise"
   }
 }

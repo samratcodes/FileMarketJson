@@ -19,13 +19,13 @@
   },
   "consent": "Yes",
   "recording_details": {
-    "recording_links_respondent": [
-      "https://drive.google.com/file/d/1gffdjXKu8DvFdwDVgDyoub-BsMtQgEHV/view?usp=drive_link",
-      "https://drive.google.com/file/d/1wWyZN_aRp1nWb9n3DgIqaHrT3cHw3vUQ/view?usp=drive_link"
-    ],
-    "recording_links_agent": [
+    "recording_link_agent": [
       "https://drive.google.com/file/d/1L0ob9Zeb-xW1X1D2cNd69dw0p3zLyBA5/view?usp=drive_link",
       "https://drive.google.com/file/d/1DFfEA0P9Rt6u9v_zg_KZozXn-bZ8jsW2/view?usp=drive_link"
+    ],
+        "recording_link_respondent": [
+      "https://drive.google.com/file/d/1gffdjXKu8DvFdwDVgDyoub-BsMtQgEHV/view?usp=drive_link",
+      "https://drive.google.com/file/d/1wWyZN_aRp1nWb9n3DgIqaHrT3cHw3vUQ/view?usp=drive_link"
     ],
     "duration": "36:51 min",
     "file_size_respondent": "185 MB",
