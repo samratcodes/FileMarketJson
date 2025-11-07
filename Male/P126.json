@@ -1,0 +1,36 @@
+{
+  "id": "P126",
+  "agent_details": {
+    "code": "#0001C",
+    "native_language": "Native Kenyan",
+    "gender": "Female",
+    "age": 33,
+    "city": "Busia",
+    "country": "Kenya"
+  },
+  "respondent_details": {
+    "first_name": "Faith",
+    "gender": "Female",
+    "age": 44,
+    "country": "Pretoria, South Africa",
+    "language_native": "Setswana",
+    "languages_known": ["Setswana", "Zulu", "English"],
+    "accent_or_dialect": "South African English accent",
+    "call_language": "English"
+  },
+  "consent": "Yes",
+  "recording_details": {
+    "recording_link_agent": [
+      "https://drive.google.com/file/d/1I8ExlgxBy0JkbbqhmATmOJPNfJigE394/view?usp=drive_link"
+    ],
+    "recording_link_respondent": [
+      "https://drive.google.com/file/d/1QpNZ-3rVvaGSfCxBmKfrRhYUhmKwhqiE/view?usp=drive_link"
+    ],
+    "duration": "32:11 min",
+    "file_size_agent": "162.5 MB",
+    "file_size_respondent": "162.5 MB",
+    "device_used": "Asus i3, Yelling Headsets",
+    "noise_level": "Low",
+    "notes": "Audio is OK"
+  }
+}
