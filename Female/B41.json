@@ -6,13 +6,13 @@
     "gender": "Male",
     "age": 32,
     "city": "Gangtok",
-    "country": "Nepal"
+    "country": "India"
   },
   "respondent_details": {
     "first_name": "Refiloe",
     "gender": "Female",
     "age": 30,
-    "country": "Bloemfontein, South Africa",
+    "country": "South Africa",
     "language_native": "Sotho",
     "languages_known": [
       "English",
