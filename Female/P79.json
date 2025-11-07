@@ -2,17 +2,17 @@
   "id": "P79",
   "agent_details": {
     "code": "#0001C",
-    "native_language": "Nepali",
-    "gender": "Male",
-    "age": 36,
-    "city": "Kathmandu",
-    "country": "Nepal"
+    "native_language": "Native Kenyan",
+    "gender": "Female",
+    "age": 33,
+    "city": "Kisumu",
+    "country": "Kenya"
   },
   "respondent_details": {
     "first_name": "Joy Lisa",
     "gender": "Female",
     "age": 22,
-    "country": "Meru, Kenya",
+    "country": "Kenya",
     "language_native": "Luo",
     "languages_known": [
       "Swahili",
