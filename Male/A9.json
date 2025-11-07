@@ -1,7 +1,7 @@
 {
-  "id": "SR1",
+  "id": "A9",
   "agent_details": {
-    "code": "#000SR",
+    "code": "#000A9",
     "native_language": "Nepali",
     "gender": "Male",
     "age": 21,
@@ -29,7 +29,7 @@
     "recording_link_respondent": [
       "https://drive.google.com/file/d/1Jzqs-d6vDQlUAcZxbRmZgIXiniwhsAvy/view?usp=drive_link"
     ],
-    "duration": "0:30:23",
+    "duration": "30:23 min",
     "file_size_agent": "153.5 MB",
     "file_size_respondent": "153.5 MB",
     "device_used": "HP Pavilion 15",

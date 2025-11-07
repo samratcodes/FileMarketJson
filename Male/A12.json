@@ -1,7 +1,7 @@
 {
-  "id": "SR7",
+  "id": "A12",
   "agent_details": {
-    "code": "#000AD",
+    "code": "#000A12",
     "native_language": "Nepali",
     "gender": "Male",
     "age": 21,
@@ -32,7 +32,7 @@
     "recording_link_respondent": [
       "https://drive.google.com/file/d/18UnrGtkIMn6y46G0Bw_jcBdIVQEdSiuo/view?usp=drive_link"
     ],
-    "duration": "0:36:55",
+    "duration": "36:55 min",
     "file_size_agent": "186.3 MB",
     "file_size_respondent": "186.4 MB",
     "device_used": "Samsung A16, Oraimo Earbuds",
