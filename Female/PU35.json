@@ -12,13 +12,13 @@
     "first_name": "Elizabeth",
     "gender": "Female",
     "age": 26,
-    "country": "Natungamo",
+    "country": "Uganda",
     "language_native": "Runyankole",
     "languages_known": [
       "English",
       "Luganda"
     ],
-    "accent_or_dialect": "Kenyan accent",
+    "accent_or_dialect": "uganda accent",
     "call_language": "English"
   },
   "consent": "Yes",

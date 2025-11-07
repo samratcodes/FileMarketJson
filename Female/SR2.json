@@ -25,12 +25,12 @@
   "consent": "Yes",
   "recording_details": {
     "recording_link_agent": [
-      "https://drive.google.com/file/d/1DkghrZ7ZPFgiCmeqHsEIIV4RlYVh2Jod/view?usp=drive_link"
+            "https://drive.google.com/file/d/1TRHrXOHZoX1_m7gEySeWJFb87HVF7t92/view?usp=drive_link"
     ],
     "recording_link_respondent": [
-      "https://drive.google.com/file/d/1TRHrXOHZoX1_m7gEySeWJFb87HVF7t92/view?usp=drive_link"
+            "https://drive.google.com/file/d/1DkghrZ7ZPFgiCmeqHsEIIV4RlYVh2Jod/view?usp=drive_link"
     ],
-    "duration": "0:37:09",
+    "duration": "37:09 min",
     "file_size_agent": "187.5 MB",
     "file_size_respondent": "187.5 MB",
     "device_used": "Redmi Note 14",
