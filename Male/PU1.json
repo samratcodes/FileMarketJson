@@ -6,7 +6,7 @@
     "gender": "Male",
     "age": 36,
     "city": "Gangtok",
-    "country": "Nepal"
+    "country": "India"
   },
   "respondent_details": {
     "first_name": "Jerry",
@@ -26,7 +26,7 @@
     "recording_link_respondent": [
       "https://drive.google.com/file/d/1KiOqiq7rydryqSMwzvdYXn-Um927KHJH/view?usp=drive_link"
     ],
-    "duration": "48:57:00",
+    "duration": "48:57 min",
     "file_size_agent": "247mb",
     "file_size_respondent": "248.9mb",
     "device_used": "Samsung A05",

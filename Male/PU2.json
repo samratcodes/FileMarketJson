@@ -6,7 +6,7 @@
     "gender": "Male",
     "age": 36,
     "city": "Gangtok",
-    "country": "Nepal"
+    "country": "India"
   },
   "respondent_details": {
     "first_name": "mukisa",
@@ -27,7 +27,7 @@
     "recording_link_respondent": [
       "https://drive.google.com/file/d/1e43ZDp2hSMgBIK_r6wdIqYWyIWJ8bKb5/view?usp=drive_link"
     ],
-    "duration": "30:24:00",
+    "duration": "30:24 min",
     "file_size_agent": "153.6mb",
     "file_size_respondent": "153.8mb",
     "device_used": "",
